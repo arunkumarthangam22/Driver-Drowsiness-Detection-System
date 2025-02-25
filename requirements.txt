@@ -1,0 +1,8 @@
+opencv-python
+numpy
+tensorflow
+keras
+pygame
+
+
+#pip install opencv-python numpy tensorflow keras pygame

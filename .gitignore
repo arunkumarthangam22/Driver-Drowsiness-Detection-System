@@ -1,0 +1,23 @@
+# Virtual Environment
+drowsiness_env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Log Files
+logs/
+*.log
+
+# Temporary and Backup Files
+*.bak
+*.swp
+*.swo
+.DS_Store
+
+# Environment and Dependency Files
+.env
+*.cfg
